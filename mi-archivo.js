@@ -1,2 +1,3 @@
 console.log('hola mundo')
-este es un ejercicio de iso de git y github
+console.log('Yessica Morales Guadamuz')
+este es un ejercicio de git y github
